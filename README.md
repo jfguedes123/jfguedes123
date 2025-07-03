@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joao Guedes
 ===================================================================================================================================
 
-Student
+Former Student
 -------
 
-3rd Year Student of Engenharia Informática e Computação at Faculdade de Engenharia da Universidade do Porto
+Bachelor of Engenharia Informática e Computação at Faculdade de Engenharia da Universidade do Porto
 
 * 🌍  I'm based in Porto
 * ✉️  You can contact me at [https://www.linkedin.com/in/joao-guedes-17b104225/](mailto:https://www.linkedin.com/in/joao-guedes-17b104225/)
