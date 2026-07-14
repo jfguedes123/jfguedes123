@@ -46,6 +46,6 @@
 
 *M.Sc. student at FEUP · Porto*
 
-![Profile Views](https://komarev.com/ghpvc/?username=eamachadoo&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jfguedes123&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 </div>
