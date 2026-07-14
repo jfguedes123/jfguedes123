@@ -5,7 +5,7 @@
 **M.Sc. Informatics Engineering · FEUP**
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/joao-guedes-17b104225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-guedes-17b104225/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joao.f.s.guedes@gmail.com)
 ![Porto, Portugal](https://img.shields.io/badge/📍_Porto-Portugal-gray?style=flat-square)
 
