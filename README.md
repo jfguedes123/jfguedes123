@@ -23,8 +23,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **CAC** | Full-stack Yelp community analysis and recommender system with a Two-Tower model, ABSA, community forecasting, and influence spread simulation | Python, FastAPI, PyTorch, Next.js, Docker, DuckDB |
 | **Machine Learning** | Data mining project for predicting team rankings, coaching changes, and player awards from historical basketball season data. | Python, Jupyter, pandas, scikit-learn, LightGBM, PyTorch |
+| **ML Components** | Full-stack Yelp community analysis and recommender system with a Two-Tower model, ABSA, community forecasting, and influence spread simulation | Python, FastAPI, PyTorch, Next.js, Docker, DuckDB |
 | **PLN 1** | Data mining and text-classification baseline project built around classical machine-learning pipelines, engineered features, and comparative model benchmarking. | Python, Jupyter, pandas, scikit-learn, LightGBM, PyTorch |
 | **PLN 2** | Transformer-based continuation that fine-tunes pre-trained Hugging Face language models on the same classification task and compares them against the PLN 1 baseline. | Python, Jupyter, Hugging Face Transformers, PyTorch |
 ---
