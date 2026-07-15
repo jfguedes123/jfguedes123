@@ -15,7 +15,7 @@
 
 ## Currently
 
-- 📚 **FEUP** — Master's Degree in Computer Science (2025-2027)
+- **FEUP** — Master's Degree in Computer Science (2025-2027)
 
 ---
 
